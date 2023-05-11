@@ -14,3 +14,16 @@ In this Lab we can see the implementation of KNN for Optical Character Recogniti
 In this Lab we can see the implementation of K-fold Cross Validation.
 The below image shows the change in error rate with the change in number of folds(k value)
 <img width="752" alt="image" src="https://github.com/sankalprane/Intro-to-Machine-Learning/assets/73281026/2f44d910-bcba-4f90-9d40-097d61129027">
+
+<b>Multivariate Methods</b>:
+In the image shown below we can see the contours for probabilty density function depending on the covariance matrix.
+<img width="696" alt="image" src="https://github.com/sankalprane/Intro-to-Machine-Learning/assets/73281026/bdfed12b-0c31-4c1a-bc25-ad146593dfcf">
+
+<b>Naive Bayes Classification</b>:
+In this Lab we can see the implementation of spam detection using Naive Bayes Classification. Here we are using smoothing to deal with words that we have not seen in the past.
+
+<b>Decision Tree</b>:
+In this Lab we make use of Gini Index as the cost function to evaluate the splits while building the tree.
+
+<b>Logistic Regression</b>:
+In this Lab we have implemented Logistic Regression for multiclass classification for load_digits dataset in sklearn.
